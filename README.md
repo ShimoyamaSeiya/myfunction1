@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Function that returns the list of instances in the calling Compartment
 
 This function uses Resource Principals to securely authorize a function to make
@@ -107,3 +108,6 @@ You should see the list of instances in your compartment in the terminal.
 Learn how to configure basic observability for your function using metrics, alarms and email alerts:
 * [Basic Guidance for Monitoring your Functions](../basic-observability/functions.md)
 
+=======
+# myfunction1
+>>>>>>> origin/main
